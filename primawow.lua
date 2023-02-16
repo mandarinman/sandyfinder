@@ -18,7 +18,6 @@ end
 
 if game.PlaceId == 6032399813 then
     repeat wait() until game:IsLoaded()
-    local url = "https://discord.com/api/webhooks/1075807872660799518/wHwpxfk2IVuwrU-97fwI_LUIFRnh1nmc2lO0g40KvS3-9uuc0HADhPXAnG2rfHCzzqv6"
     local itemWhitelist = {"Curved", "Crypt", "Railblade", "Gran Sud", "Light's Final Toll", "Razor Cutlass"}
     local lplr = game.Players.Assanatal
     for _, player in pairs(game.Players:GetChildren()) do
