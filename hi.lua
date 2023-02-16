@@ -1,4 +1,4 @@
 game:GetService("Players").PlayerAdded:Wait()
-wait(3)
+wait(5)
 
 print("hi")
